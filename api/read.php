@@ -5,7 +5,7 @@ header('Content-Type: application/json');
 
 include_once('../core/initialize.php');
 
-// instanciate post 
+// instantiate post 
 
 $post = new Post($db);
 
